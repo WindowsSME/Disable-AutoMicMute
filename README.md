@@ -1,2 +1,2 @@
 # Disable-AutoMicMute
-Original Source / Creator : https://github.com/frgnca/AudioDeviceCmdlets
+Original Source / Derived From : https://github.com/frgnca/AudioDeviceCmdlets
